@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskNote</string>
+    <!--Tabs-->
+    <string name="tabs_actual">Актуальные</string>
+    <string name="tabs_timeover">Просроченные</string>
+    <string name="tabs_all">Все</string>
+    <!--TextView-->
+    <string name="name">Название</string>
+    <string name="description">Описание</string>
+    <string name="term">Срок</string>
+    <string name="prior">Приоритет</string>
+    <string name="complete">Задача выполнена</string>
+    <!--status-->
+    <string name="low">Низкий</string>
+    <string name="medium">Средний</string>
+    <string name="hight">Высокий</string>
+    <!--menus-->
+    <string name="save">save</string>
+    <string name="add">Добавить</string>
+</resources>
